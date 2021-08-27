@@ -3,7 +3,7 @@ const Team = () => {
     <section className="py-6 text-neutral-focus">
       <div className="container flex flex-col items-center justify-center p-4 mx-auto space-y-8 sm:p-10">
         <h1 className="text-4xl font-bold leading-none text-center sm:text-5xl">
-          Our team
+          Our team with Sithum
         </h1>
         <p className="max-w-2xl text-center dark:text-coolGray-400">
           We're on a Mission to Change Your Business to a Brand!
